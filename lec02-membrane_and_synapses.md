@@ -278,7 +278,7 @@ This is a particular type of synapse that help understanding of general synapses
 ## EPC EPP
 - Excitatory postsynaptic currents (EPCs) and excitatory postsynaptic potentials (EPPs).
 
-## Inhibitory postsynaptic potential (IPSP) and EPSP (excitatory)
+## Inhibitory postsynaptic potential (IPSP) and EPSP (evoked)
 - excitatory: glutamate, ~80%
 - inhibitory: GABA. ~20%
 - other types are rare, like dopamane
