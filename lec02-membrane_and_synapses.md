@@ -32,7 +32,7 @@ n(t)=n_{0}-\left[\left(n_{0}-n_{\infty}\right)\left(1-e^{-t / \tau_{n}}\right)\r
 ## Voltage clamp experiment
 
 ### hyperpolarizing voltage command
-- onlu capacitive current, no membrane currents, since all channels are closed.
+- only capacitive current, no membrane currents, since all channels are closed.
 
 ### depolarizing voltage command
 - transient inward current

@@ -60,9 +60,9 @@
 ## LTP Study in Hippocampus
 - Hippocampus is where new memory are formed, ideal for plasticity study.
 - Study of two CA3 cell connect to same CA1 cell, we can stimulate on either of CA3 and record the postsynaptic responce on CA1
-- tetanus to pathway 1 leads to EPSP in pathway 1 (long term potentiation *LTP*), but not in pathway 2 (specific).
+- tetanus to pathway 1 leads to EPSP in pathway 1 (long term potentiation *LTP*), but not in pathway 2 (*specific*).
     - LTP can be as long as a year
-- Long Term Potentiation (LTP) can also be triggered by pairing of pre- and postsynaptic activity. (assiciative) 
+- Long Term Potentiation (LTP) can also be triggered by pairing of pre- and postsynaptic activity. (*assiciative*) 
     - This means instead of tetanus, 2-3times per minute single pulse, and at the same time, we deploarized the CA1 post membrane potential.
     - This corresponds to the *Hebbian learning rule*, Fire together wire together
 - These experiments shows LTP is both specific and associative.

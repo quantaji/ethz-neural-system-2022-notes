@@ -29,7 +29,7 @@
     - Differentiation
     - Enlargement
 
-    ![](media/16617846649848.png)
+    ![-c400](media/16617846649848.png)
 - anterior (rostal)
     - Telencephalon: cerebrum (cortex)
     - diencephalon: thalamus, hippocampus
@@ -222,4 +222,4 @@
         - provide mechanism to control the flow of information in different cortical area.  
 
         
-![](media/16617896966818.jpg)
+![-c400](media/16617896966818.jpg)

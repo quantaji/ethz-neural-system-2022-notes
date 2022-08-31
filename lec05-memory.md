@@ -217,11 +217,11 @@
 
 - for incomplete neuron intput(101010), after training, it can still be activated
 ### LTP and LTD
-#### Long-term potentiation (LTP) in the “Schaffer collateral” pathway (i.e. CA3 è CA1) is “associative”
+#### Long-term potentiation (LTP) in the “Schaffer collateral” pathway (i.e. CA3 -> CA1) is “associative”
 - CA3 to CA1 is very largely studies, because . Because these two cells are physically separated, so that I can stimulate these neurons separately
 - from past lecture, associtative means co-firing for pre and post cell
 
-#### Long-term potentiation in the Mossy fiber 40 Direct perforant pathway pathway (i.e. DGAPV è CA3) is “non-associative”
+#### Long-term potentiation in the Mossy fiber 40 Direct perforant pathway pathway (i.e. DG -> CA3) is “non-associative”
 - inside hippo, there are different mechanisms of plasticity.
 - For example, dentate neuron to CA3. a pattern separator, the connection is in-associative, in the sense that, the two connected neuron, one from dentate, one in CA3, they donot need to fire at same time.
 - So, if one CA3 neuron is silent, and the dentate it is connected to is active, this will STILL add plasticity to the synaptic. (but don;t know why this mechanism)
